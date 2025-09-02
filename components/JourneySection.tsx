@@ -56,12 +56,7 @@ function JourneyRow({ item, index }: { item: Item; index: number }) {
 
 export default function JourneySection() {
   const experiences: Item[] = [
-    {
-      title: "Data Analyst Contractor @ AAK",
-      date: "Jan 2025 – Present",
-      description:
-        "",
-    },
+    
     {
       title: "Graduated BSc Computer Science @ Texas A&M",
       date: "Aug 2020 – Dec 2024",
